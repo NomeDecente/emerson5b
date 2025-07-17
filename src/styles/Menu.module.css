@@ -1,0 +1,9 @@
+.menudegrade {
+  background: #2785e3;
+  background: linear-gradient(
+    180deg,
+    rgb(200, 198, 84) 0%,
+    rgb(0, 76, 13) 83%,
+    rgb(70, 0, 50) 100%
+  );
+}
